@@ -1,4 +1,4 @@
-body {
+.container {
     background-color: #efeee7;
     font-family: "Georgia",Times New Roman,Times,serif;
     color: #333333;
@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-header {
+#main-bio {
     background-color: #333333;
 }
 
